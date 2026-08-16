@@ -7,7 +7,7 @@ Each folder represents a topic, with daily practice exercises inside.
 
 ## Progress
 - [x] Syntax, Output, Comments
-- [ ] Variables
+- [x] Variables
 - [ ] Data Types
 - [ ] Numbers & Casting
 - [ ] Strings
