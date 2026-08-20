@@ -11,7 +11,7 @@ Each folder represents a topic, with daily practice exercises inside.
 - [x] Data Types
 - [x] Numbers & Casting
 - [x] Strings
-- [ ] Booleans & Operators
+- [x] Booleans & Operators
 - [ ] Dictionaries
 - [ ] Lists, Tuples, Sets
 - [ ] Loops
